@@ -1,6 +1,6 @@
 # Landing Page Project
 
-## project description
+## Project description
 The project's functionality is to focus on the required section when you click the section name from the navigation bar and activate the current section when you focus on.
 It also makes the number of elements of the navigation bar dynamic according to the number of sections in the html file.
 
